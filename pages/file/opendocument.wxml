@@ -1,0 +1,3 @@
+<!--pages/file/opendocument.wxml-->
+<text>pages/file/opendocument.wxml</text>
+<button bindtap='open'>open</button>
